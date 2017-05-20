@@ -1,11 +1,13 @@
 # Workshop EPiC
 
-## Sobre
+## About
 
 Controle de versionamento
 
-## Desenvolvedores
+## Developers
 
 - Marcelo
 
 ## Comentário adicional
+
+Um comentário para ver o git diff
